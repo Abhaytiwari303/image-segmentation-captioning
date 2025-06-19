@@ -89,7 +89,7 @@ This project is deployed on **Streamlit Cloud**. To deploy your own version:
 
 ## 📋 Requirements
 
-**Python Version:** 3.13
+**Python Version:** 3.10
 
 ### Dependencies
 ```
