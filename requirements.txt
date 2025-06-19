@@ -2,10 +2,11 @@ torch==2.1.0
 torchvision==0.16.0
 torchaudio==2.1.0
 opencv-python-headless==4.9.0.80
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.8.3
 nltk==3.8.1
-spacy==3.7.2
 tqdm==4.66.2
 streamlit==1.33.0
-matplotlib==3.8.3
 pillow==10.3.0
 pycocotools==2.0.7
