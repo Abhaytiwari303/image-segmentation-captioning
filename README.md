@@ -2,7 +2,7 @@
 
 A real-time web application that generates intelligent captions and performs object detection on uploaded images using state-of-the-art deep learning models.
 
-🚀 **[Live Demo](https://www.linkedin.com/posts/abhaytiwari30_ai-deeplearning-computervision-activity-7341756104831287296-Rk4b?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6u7bkBrCAv1pvhwbTv6f0OH_xLVQBEEw4)**
+🚀 **[Live Demo](https://image-segmentation-captioning-fjkutflp7zjjwdxqmyhdxr.streamlit.app)**
 
 ## ✨ Features
 
